@@ -15,7 +15,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
-<!--this ^ tells maven to not repackage the module with all its dependencies nut just with the classes (a smaller jar)-->
+<!--this ^ tells maven to not repackage the module with all its dependencies but just with the classes (a smaller jar)-->
     </properties>
 
     <dependencies>
