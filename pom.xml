@@ -51,6 +51,6 @@
 	<scm>
 		<developerConnection>scm:git:https://github.com/nickavr/PetClinic.git</developerConnection>
 	  <tag>HEAD</tag>
-  </scm>
+  	</scm>
 
 </project>
